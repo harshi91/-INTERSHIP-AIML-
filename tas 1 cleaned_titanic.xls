@@ -824,3 +824,4 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked_
 889,0,3,"Johnston, Miss. Catherine Helen ""Carrie""",1,0.08052131814215928,1,2,W./C. 6607,-0.16090999315143012,,0,1
 890,1,1,"Behr, Mr. Karl Howell",0,-0.28297342366987777,0,0,111369,-0.02971620262755453,C148,0,0
 891,0,3,"Dooley, Mr. Patrick",0,0.3066181111131041,0,0,370376,-0.47537449868194104,,1,0
+
